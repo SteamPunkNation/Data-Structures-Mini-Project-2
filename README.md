@@ -2,6 +2,8 @@
 
 This C++ project implements Prim's algorithm to find the minimum spanning tree of an undirected, connected, weighted graph. It uses an adjacency list representation and provides functions to add edges to the graph and print the minimum spanning tree. The code is well-organized, properly indented, and includes comments for clarity.
 
+![Screenshot 2023-04-09 195319](https://user-images.githubusercontent.com/23602136/230802301-f4b3b092-12ce-4ad8-9366-9d0dc020ddf6.png)
+
 ## Features
 
 - Implements Prim's algorithm for finding the minimum spanning tree
